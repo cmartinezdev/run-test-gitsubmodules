@@ -1,4 +1,4 @@
-const {printBlueText} = require('core');
+const {printBlueText} = require('core-test-gitsubmodules');
 
 const {prompt} = require('node-ask');
 
